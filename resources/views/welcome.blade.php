@@ -25,6 +25,7 @@
             <div class="ml-4 text-lg leading-7 font-semibold">
                 <h1 class="text-grey-900 dark:text-black">Raden Rizki (25)</h1>
                 <h1 class="text-grey-900 dark:text-black">Kelas TI-2G</h1>
+                <h1 class="text-grey-900 dark:text-black">Asal dari Blitar</h1>
             </div>
         </div>
     </body>
