@@ -27,6 +27,9 @@
                 <h1 class="text-grey-900 dark:text-black">Kelas TI-2G</h1>
                 <h1 class="text-grey-900 dark:text-black">D4 Teknologi Informasi</h1>
                 <h1 class="text-grey-900 dark:text-black">Asal dari Blitar</h1>
+
+                <h3>POLITEKNIK NEGERI MALANG</h3>
+
             </div>
         </div>
     </body>
